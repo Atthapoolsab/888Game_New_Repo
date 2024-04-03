@@ -1,6 +1,6 @@
 # VersionControl888Game(New Repository)
 - 1. 641310461 ณัฐนันท์ บัวสิน : Developer : https://github.com/Nuttanuncurry
-- 2. 641310462 ณัฐนันท์ สิงหาสาร : 2D Artist : https://github.com/Flooker007 
+- 2. 641310462 ณัฐนันท์ สิงหาสาร : 2D Artist : https://github.com/Flooker007
 - 3. 641310477 อรรถพันธ์ อรรถพูลทรัพย์ : 3D Artist : https://github.com/Atthapoolsab
  
      Old Repository : https://github.com/Flooker007/888Game.git
