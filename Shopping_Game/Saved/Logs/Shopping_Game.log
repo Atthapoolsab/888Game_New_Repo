@@ -3608,3 +3608,23 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.04.04-13.41.31:016][474]LogEditorActor: Deleted Actor: StaticMeshActor
 [2024.04.04-13.41.31:037][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
 [2024.04.04-13.41.31:038][474]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2024.04.04-13.44.07:216][608]BlueprintLog: New page: Compile BP_TopDownCharacter
+[2024.04.04-13.44.07:343][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.04.04-13.44.08:267][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-13.44.08:420][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../888Game_New_Repo/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.04.04-13.44.08:460][627]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.04.04-13.44.08:460][627]LogSavePackage: Moving '../../../../../../888Game_New_Repo/Shopping_Game/Saved/BP_TopDownCharacter53F283664B6A24AC9D40F4BB66AFE0F2.tmp' to '../../../../../../888Game_New_Repo/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.04.04-13.44.08:487][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 7.12 sec)
+[2024.04.04-13.44.08:489][627]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.04.04-13.44.08:489][627]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.04.04-13.44.24:932][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.04.04-13.44.26:052][477]LogSlate: Window 'Save Content' being destroyed
+[2024.04.04-13.44.26:116][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-13.44.26:180][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game_New_Repo/Shopping_Game/Content/MarketMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-13.44.26:225][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.04-13.44.26:353][477]LogSavePackage: Moving output files for package: /Game/MarketMap
+[2024.04.04-13.44.26:353][477]LogSavePackage: Moving '../../../../../../888Game_New_Repo/Shopping_Game/Saved/MarketMapE7FB42464DA9672172BE2FA95EFED177.tmp' to '../../../../../../888Game_New_Repo/Shopping_Game/Content/MarketMap.umap'
+[2024.04.04-13.44.26:366][477]LogFileHelpers: Saving map 'MarketMap' took 0.186
+[2024.04.04-13.44.26:390][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 272 ms (total: 7.39 sec)
+[2024.04.04-13.44.26:393][477]AssetCheck: New page: Asset Save: MarketMap
+[2024.04.04-13.44.26:393][477]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
