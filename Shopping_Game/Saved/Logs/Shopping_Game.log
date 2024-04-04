@@ -1704,3 +1704,50 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.04-17.42.32:129][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2024.04.04-17.42.32:147][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
 [2024.04.04-17.42.32:211][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.04.04-17.43.58:322][ 20]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.04.04-17.43.58:322][ 20]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.04.04-17.44.01:226][131]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Currency_Systems/UI/WB_vegetable.WB_vegetable
+[2024.04.04-17.44.01:226][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.44.01:226][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-17.44.01:256][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.44.01:256][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-17.44.01:530][131]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.04.04-17.44.27:939][803]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.44.28:011][804]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.44.28:065][805]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.44.28:121][806]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.44.28:155][807]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.44.28:192][808]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.44.28:230][809]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.44.28:265][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.44.28:301][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.44.28:336][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.44.47:162][290]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_LemonGrass.BP_PickupActor_LemonGrass
+[2024.04.04-17.44.47:162][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.44.47:162][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-17.44.53:801][472]LogViewport: Scene viewport resized to 1064x778, mode Windowed.
+[2024.04.04-17.44.55:620][518]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.45.31:888][542]BlueprintLog: New page: Compile WB_vegetable
+[2024.04.04-17.45.31:900][542]LogBlueprint: Warning: [AssetLog] D:\888Game_New_Repo\Shopping_Game\Content\Currency_Systems\UI\WB_vegetable.uasset: [Compiler] Could not find a variable named "Amount" in 'WB_vegetable_C'.
+Make sure 'WB_vegetable_C' has been compiled for  Set Amount
+[2024.04.04-17.45.31:900][542]LogBlueprint: Warning: [AssetLog] D:\888Game_New_Repo\Shopping_Game\Content\Currency_Systems\UI\WB_vegetable.uasset: [Compiler] Could not find a variable named "Amount" in 'WB_vegetable_C'.
+Make sure 'WB_vegetable_C' has been compiled for  Get Amount
+[2024.04.04-17.45.31:900][542]LogBlueprint: Warning: [AssetLog] D:\888Game_New_Repo\Shopping_Game\Content\Currency_Systems\UI\WB_vegetable.uasset: [Compiler] Could not find a variable named "ItemToAdd" in 'WB_vegetable_C'.
+Make sure 'WB_vegetable_C' has been compiled for  Get ItemToAdd
+[2024.04.04-17.45.31:900][542]LogBlueprint: Warning: [AssetLog] D:\888Game_New_Repo\Shopping_Game\Content\Currency_Systems\UI\WB_vegetable.uasset: [Compiler] On Component Begin Overlap (Sphere)  does not have a valid matching component!
+[2024.04.04-17.45.31:901][542]LogBlueprint: Error: [AssetLog] D:\888Game_New_Repo\Shopping_Game\Content\Currency_Systems\UI\WB_vegetable.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2024.04.04-17.45.31:902][542]LogBlueprint: Error: [AssetLog] D:\888Game_New_Repo\Shopping_Game\Content\Currency_Systems\UI\WB_vegetable.uasset: [Compiler] The property associated with  Item to Add  could not be found in '/Game/Currency_Systems/UI/WB_vegetable.WB_vegetable_C'
+[2024.04.04-17.45.31:902][542]LogBlueprint: Error: [AssetLog] D:\888Game_New_Repo\Shopping_Game\Content\Currency_Systems\UI\WB_vegetable.uasset: [Compiler] The property associated with  Amount  could not be found in '/Game/Currency_Systems/UI/WB_vegetable.WB_vegetable_C'
+[2024.04.04-17.45.31:902][542]LogBlueprint: Error: [AssetLog] D:\888Game_New_Repo\Shopping_Game\Content\Currency_Systems\UI\WB_vegetable.uasset: [Compiler] The property associated with  Amount  could not be found in '/Game/Currency_Systems/UI/WB_vegetable.WB_vegetable_C'
+[2024.04.04-17.45.31:947][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.04.04-17.45.42:363][844]LogEditorTransaction: Undo Move Nodes
+[2024.04.04-17.45.45:370][901]LogEditorTransaction: Undo Paste clipboard contents
+[2024.04.04-17.45.47:143][945]BlueprintLog: New page: Compile WB_vegetable
+[2024.04.04-17.45.47:194][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.04.04-17.45.47:820][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-17.45.47:978][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Currency_Systems/UI/WB_vegetable" FILE="../../../../../../888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_vegetable.uasset" SILENT=true
+[2024.04.04-17.45.48:007][957]LogSavePackage: Moving output files for package: /Game/Currency_Systems/UI/WB_vegetable
+[2024.04.04-17.45.48:007][957]LogSavePackage: Moving '../../../../../../888Game_New_Repo/Shopping_Game/Saved/WB_vegetable271DAB71441E846020F75596A0CF8872.tmp' to '../../../../../../888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_vegetable.uasset'
+[2024.04.04-17.45.48:037][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 216 ms (total: 1.31 sec)
+[2024.04.04-17.45.48:039][957]AssetCheck: New page: Asset Save: WB_vegetable
+[2024.04.04-17.45.48:039][957]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Currency_Systems/UI/WB_vegetable.WB_vegetable
