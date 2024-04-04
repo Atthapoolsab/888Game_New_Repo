@@ -6,7 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/888Game_New_Repo/Shopping_Game/Content/MarketMap.umap",
-				"D:/888Game_New_Repo/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
+				"D:/888Game_New_Repo/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/UI/WB_BuyItemLemonGrass.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_BuyItemLemonGrass.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_BuyItemChili.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_BuyItemCilantro.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_BuyItemGalangal.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_BuyItemLemon.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_BuyItemMushroom.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_BuyItemShallots.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_BuyItemSugar.uasset"
 			]
 		}
 	]

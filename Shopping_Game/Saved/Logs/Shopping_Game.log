@@ -1513,3 +1513,194 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.04-17.04.29:460][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 959 ms)
 [2024.04.04-17.04.29:462][193]AssetCheck: New page: Asset Save: BP_TopDownCharacter
 [2024.04.04-17.04.29:462][193]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.04.04-17.17.57:410][805]LogWindowsTextInputMethodSystem: Activated input method: Thai (Thailand) - (Keyboard).
+[2024.04.04-17.17.57:411][805]LogWindowsTextInputMethodSystem: Activated input method: Thai (Thailand) - (Keyboard).
+[2024.04.04-17.36.26:703][941]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.248 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12371 files in 14533 folders with total size 711 MiB.
+[2024.04.04-17.40.38:539][374]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.40.38:590][375]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.40.38:645][376]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.40.38:697][377]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.40.38:751][378]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.40.38:802][379]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.40.38:855][380]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.40.38:906][381]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.40.38:958][382]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.40.38:994][383]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.41.13:465][235]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.04-17.41.13:472][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.04-17.41.13:472][235]PIE: New page: PIE session: MarketMap (5 เม.ย. 2567 07:41:13)
+[2024.04.04-17.41.13:472][235]LogPlayLevel: Display: Creating online subsystem for client :Context_36
+[2024.04.04-17.41.13:474][235]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.04.04-17.41.13:498][236]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.04.04-17.41.13:548][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050378s)
+[2024.04.04-17.41.13:548][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.050437s)
+[2024.04.04-17.41.13:567][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.04.04-17.41.13:575][236]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.41.13:575][236]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-17.41.13:575][236]LogAIModule: Creating AISystem for world MarketMap
+[2024.04.04-17.41.13:576][236]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2024.04.04-17.41.13:576][236]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.04-17.41.13:576][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.04-17.41.13:576][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.04-17.41.13:576][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.04-17.41.13:576][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.04-17.41.13:576][236]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.04-17.41.13:576][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.04-17.41.13:576][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.04-17.41.13:576][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.04-17.41.13:577][236]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.04-17.41.13:577][236]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.04-17.41.13:577][236]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.04-17.41.13:578][236]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.04-17.41.13:827][236]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.04-17.41.13:828][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.04-17.41.13:828][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.04-17.41.13:828][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.04-17.41.13:828][236]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.04-17.41.13:829][236]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.04-17.41.13:831][236]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.04-17.41.13:831][236]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.04-17.41.13:831][236]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.04-17.41.13:831][236]LogAudio: Display: Audio Device (ID: 3) registered with world 'MarketMap'.
+[2024.04.04-17.41.13:831][236]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.04-17.41.13:885][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-17.41.13:885][236]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.04-17.41.13:903][236]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.04.05-00.41.13
+[2024.04.04-17.41.13:904][236]LogWorld: Bringing up level for play took: 0.018635
+[2024.04.04-17.41.13:923][236]PIE: Server logged in
+[2024.04.04-17.41.13:930][236]PIE: Play in editor total start time 0.46 seconds.
+[2024.04.04-17.41.13:948][236]LogViewport: Scene viewport resized to 1912x980, mode Windowed.
+[2024.04.04-17.41.14:018][237]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.091317 > MaxSimulationTimeStep (0.050) for 'BP_Merchant3_C_1', movement 'Walking'
+[2024.04.04-17.41.37:083][929]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.04-17.41.37:083][929]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.04-17.41.37:083][929]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.04-17.41.37:947][955]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Thank You
+[2024.04.04-17.41.38:547][973]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Thank You
+[2024.04.04-17.41.39:081][989]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Thank You
+[2024.04.04-17.41.39:381][998]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Thank You
+[2024.04.04-17.41.39:881][ 13]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Thank You
+[2024.04.04-17.41.40:381][ 28]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Thank You
+[2024.04.04-17.41.40:889][ 43]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Thank You
+[2024.04.04-17.41.41:756][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-17.41.41:756][ 68]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.04.04-17.41.41:756][ 68]LogSlate: Window 'Shopping_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.04-17.41.41:785][ 68]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-17.41.41:789][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-17.41.41:792][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.04-17.41.41:800][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-17.41.41:819][ 68]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.04-17.41.41:819][ 68]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.04-17.41.41:819][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.04-17.41.41:822][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.04-17.41.41:840][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.04.04-17.41.41:886][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.04.04-17.41.57:633][720]LogMetaData: Removing '/Game/Currency_Systems/UI/UI/WB_BuyItemLemonGrass.WB_BuyItemLemonGrass_C' ref from Metadata '/Game/Currency_Systems/UI/WB_BuyItemLemonGrass.PackageMetaData'
+[2024.04.04-17.41.57:633][720]LogMetaData: Removing '/Game/Currency_Systems/UI/UI/WB_BuyItemLemonGrass.SKEL_WB_BuyItemLemonGrass_C:PreConstruct' ref from Metadata '/Game/Currency_Systems/UI/WB_BuyItemLemonGrass.PackageMetaData'
+[2024.04.04-17.41.57:633][720]LogMetaData: Removing '/Game/Currency_Systems/UI/UI/WB_BuyItemLemonGrass.SKEL_WB_BuyItemLemonGrass_C:Construct' ref from Metadata '/Game/Currency_Systems/UI/WB_BuyItemLemonGrass.PackageMetaData'
+[2024.04.04-17.41.57:633][720]LogMetaData: Removing '/Game/Currency_Systems/UI/UI/WB_BuyItemLemonGrass.SKEL_WB_BuyItemLemonGrass_C:Tick' ref from Metadata '/Game/Currency_Systems/UI/WB_BuyItemLemonGrass.PackageMetaData'
+[2024.04.04-17.41.57:633][720]LogMetaData: Removing '/Game/Currency_Systems/UI/UI/WB_BuyItemLemonGrass.SKEL_WB_BuyItemLemonGrass_C:BndEvt__WB_BuyItem_Button_89_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Currency_Systems/UI/WB_BuyItemLemonGrass.PackageMetaData'
+[2024.04.04-17.41.57:633][720]LogMetaData: Removing '/Game/Currency_Systems/UI/UI/WB_BuyItemLemonGrass.SKEL_WB_BuyItemLemonGrass_C' ref from Metadata '/Game/Currency_Systems/UI/WB_BuyItemLemonGrass.PackageMetaData'
+[2024.04.04-17.41.57:633][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-17.41.57:732][720]LogSavePackage: Moving output files for package: /Game/Currency_Systems/UI/UI/WB_BuyItemLemonGrass
+[2024.04.04-17.41.57:732][720]LogSavePackage: Moving '../../../../../../888Game_New_Repo/Shopping_Game/Saved/WB_BuyItemLemonGrassF504E1AE4F626C871C8D8C9C1EE6F8C5.tmp' to '../../../../../../888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/UI/WB_BuyItemLemonGrass.uasset'
+[2024.04.04-17.41.57:772][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 1.09 sec)
+[2024.04.04-17.41.57:799][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.04.04-17.41.57:816][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.04.04-17.41.57:832][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.04-17.41.57:914][720]AssetCheck: New page: Asset Save: WB_BuyItemLemonGrass
+[2024.04.04-17.41.57:914][720]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Currency_Systems/UI/UI/WB_BuyItemLemonGrass.WB_BuyItemLemonGrass
+[2024.04.04-17.42.00:045][762]LogSlate: Window 'Failed Renames' being destroyed
+[2024.04.04-17.42.13:807][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.04.04-17.42.15:642][368]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.04-17.42.15:714][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.04-17.42.15:730][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.04-17.42.15:742][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.04-17.42.29:562][986]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.04-17.42.29:568][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.04-17.42.29:569][986]PIE: New page: PIE session: MarketMap (5 เม.ย. 2567 07:42:29)
+[2024.04.04-17.42.29:569][986]LogPlayLevel: Display: Creating online subsystem for client :Context_37
+[2024.04.04-17.42.29:571][986]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.04.04-17.42.29:595][987]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.04.04-17.42.29:635][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040745s)
+[2024.04.04-17.42.29:635][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.040806s)
+[2024.04.04-17.42.29:653][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.04.04-17.42.29:655][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.42.29:655][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-17.42.29:656][987]LogAIModule: Creating AISystem for world MarketMap
+[2024.04.04-17.42.29:656][987]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2024.04.04-17.42.29:656][987]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.04-17.42.29:656][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.04-17.42.29:656][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.04-17.42.29:656][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.04-17.42.29:656][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.04-17.42.29:656][987]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.04-17.42.29:656][987]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.04-17.42.29:657][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.04-17.42.29:657][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.04-17.42.29:657][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.04-17.42.29:657][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.04-17.42.29:657][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.04-17.42.29:659][987]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.04-17.42.29:889][987]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.04-17.42.29:889][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.04-17.42.29:889][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.04-17.42.29:889][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.04-17.42.29:889][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.04-17.42.29:889][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.04-17.42.29:892][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.04-17.42.29:892][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.04-17.42.29:892][987]LogInit: FAudioDevice initialized with ID 4.
+[2024.04.04-17.42.29:892][987]LogAudio: Display: Audio Device (ID: 4) registered with world 'MarketMap'.
+[2024.04.04-17.42.29:892][987]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.04-17.42.29:947][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-17.42.29:947][987]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.04-17.42.29:968][987]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.04.05-00.42.29
+[2024.04.04-17.42.29:969][987]LogWorld: Bringing up level for play took: 0.021871
+[2024.04.04-17.42.29:987][987]PIE: Server logged in
+[2024.04.04-17.42.29:996][987]PIE: Play in editor total start time 0.428 seconds.
+[2024.04.04-17.42.30:023][987]LogViewport: Scene viewport resized to 1912x980, mode Windowed.
+[2024.04.04-17.42.30:033][988]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.057988 > MaxSimulationTimeStep (0.050) for 'BP_Merchant3_C_1', movement 'Walking'
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: ================================================
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Total job queries 127, among them cache hits 56 (44.09%)
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Tracking 71 distinct input hashes that result in 41 distinct outputs (57.75%)
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: RAM used: 1.52 MiB of 1.60 GiB budget. Usage: 0.09%
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Shaders Compiled: 6
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Time job spent in pending queue: average 0.38 s, longest 1.02 s
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Job execution time: average 0.91 s, max 1.38 s
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Job life time (pending + execution): average 1.28 s, max 1.49
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Shader code size: average 36.374 KiB, min 33.699 KiB, max 39.105 KiB
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.80 s
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Average processing rate: 3.34 jobs/sec
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Total thread time: 2.176 s
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Total thread preprocess time: 0.211 s
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Percentage time preprocessing: 9.69%
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Effective parallelization: 1.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.45 sec, max 0.46 sec, min 0.44 sec)
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.40 sec, max 0.41 sec, min 0.39 sec)
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 41.13% of total time (compiled    2 times, average 0.45 sec, max 0.46 sec, min 0.44 sec)
+[2024.04.04-17.42.30:076][989]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 36.55% of total time (compiled    2 times, average 0.40 sec, max 0.41 sec, min 0.39 sec)
+[2024.04.04-17.42.30:077][989]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.95% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2024.04.04-17.42.30:077][989]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.36% of total time (compiled    1 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2024.04.04-17.42.30:077][989]LogShaderCompilers: Display: ================================================
+[2024.04.04-17.42.32:065][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-17.42.32:066][ 46]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.04.04-17.42.32:066][ 46]LogSlate: Window 'Shopping_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.04-17.42.32:091][ 46]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-17.42.32:095][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-17.42.32:099][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.04-17.42.32:109][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-17.42.32:126][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.04-17.42.32:127][ 46]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.04-17.42.32:127][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.04-17.42.32:129][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.04-17.42.32:147][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.04.04-17.42.32:211][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_37
