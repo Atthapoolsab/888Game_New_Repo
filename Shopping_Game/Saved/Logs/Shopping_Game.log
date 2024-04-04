@@ -3682,3 +3682,139 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.04.04-13.45.28:451][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
 [2024.04.04-13.45.28:467][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
 [2024.04.04-13.45.28:531][166]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.04.04-13.50.34:096][411]LogScript: Warning: Accessed None trying to read property Character
+	JokeAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.JokeAnimBlueprint_C_333
+	Function /Game/Characters/Joke/Animations/JokeAnimBlueprint.JokeAnimBlueprint_C:ExecuteUbergraph_JokeAnimBlueprint:0028
+[2024.04.04-13.50.36:463][483]LogScript: Warning: Accessed None trying to read property Character
+	JokeAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.JokeAnimBlueprint_C_334
+	Function /Game/Characters/Joke/Animations/JokeAnimBlueprint.JokeAnimBlueprint_C:ExecuteUbergraph_JokeAnimBlueprint:0028
+[2024.04.04-13.50.39:198][623]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.04-13.50.39:204][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.04-13.50.39:204][623]PIE: New page: PIE session: MarketMap (5 เม.ย. 2567 03:50:39)
+[2024.04.04-13.50.39:204][623]LogPlayLevel: Display: Creating online subsystem for client :Context_63
+[2024.04.04-13.50.39:207][623]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2024.04.04-13.50.39:230][624]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.04.04-13.50.39:279][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048033s)
+[2024.04.04-13.50.39:279][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.048104s)
+[2024.04.04-13.50.39:297][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.04.04-13.50.39:301][624]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-13.50.39:301][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-13.50.39:302][624]LogAIModule: Creating AISystem for world MarketMap
+[2024.04.04-13.50.39:302][624]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2024.04.04-13.50.39:302][624]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.04.04-13.50.39:302][624]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.04-13.50.39:302][624]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.04-13.50.39:302][624]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.04-13.50.39:302][624]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.04-13.50.39:302][624]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.04-13.50.39:302][624]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.04-13.50.39:302][624]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.04-13.50.39:302][624]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.04-13.50.39:303][624]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.04-13.50.39:303][624]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.04-13.50.39:303][624]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.04-13.50.39:306][624]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.04-13.50.39:549][624]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.04-13.50.39:549][624]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.04-13.50.39:549][624]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.04-13.50.39:549][624]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.04-13.50.39:550][624]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.04.04-13.50.39:550][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.04.04-13.50.39:552][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.04.04-13.50.39:552][624]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.04.04-13.50.39:552][624]LogInit: FAudioDevice initialized with ID 14.
+[2024.04.04-13.50.39:552][624]LogAudio: Display: Audio Device (ID: 14) registered with world 'MarketMap'.
+[2024.04.04-13.50.39:552][624]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.04-13.50.39:555][624]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.04-13.50.39:575][624]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.04.04-20.50.39
+[2024.04.04-13.50.39:576][624]LogWorld: Bringing up level for play took: 0.020769
+[2024.04.04-13.50.39:585][624]PIE: Server logged in
+[2024.04.04-13.50.39:585][624]PIE: Play in editor total start time 0.382 seconds.
+[2024.04.04-13.50.39:619][625]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080427 > MaxSimulationTimeStep (0.050) for 'BP_Merchant7Sugar_C_3', movement 'Walking'
+[2024.04.04-13.51.00:267][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-13.51.00:267][859]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.04.04-13.51.00:268][859]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-13.51.00:272][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-13.51.00:275][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.04-13.51.00:283][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-13.51.00:300][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-13.51.00:304][859]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.04-13.51.00:304][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.04-13.51.00:305][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.04-13.51.00:321][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.04-13.51.00:385][860]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2024.04.04-14.01.45:161][339]LogWindowsTextInputMethodSystem: Activated input method: Thai (Thailand) - (Keyboard).
+[2024.04.04-14.01.45:161][339]LogWindowsTextInputMethodSystem: Activated input method: Thai (Thailand) - (Keyboard).
+[2024.04.04-14.02.54:809][715]LogScript: Warning: Accessed None trying to read property Character
+	JokeAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.JokeAnimBlueprint_C_335
+	Function /Game/Characters/Joke/Animations/JokeAnimBlueprint.JokeAnimBlueprint_C:ExecuteUbergraph_JokeAnimBlueprint:0028
+[2024.04.04-14.02.55:040][722]LogScript: Warning: Accessed None trying to read property Character
+	JokeAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.JokeAnimBlueprint_C_336
+	Function /Game/Characters/Joke/Animations/JokeAnimBlueprint.JokeAnimBlueprint_C:ExecuteUbergraph_JokeAnimBlueprint:0028
+[2024.04.04-14.02.55:061][723]LogScript: Warning: Accessed None trying to read property Character
+	JokeAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.JokeAnimBlueprint_C_337
+	Function /Game/Characters/Joke/Animations/JokeAnimBlueprint.JokeAnimBlueprint_C:ExecuteUbergraph_JokeAnimBlueprint:0028
+[2024.04.04-14.02.55:170][727]LogScript: Warning: Accessed None trying to read property Character
+	JokeAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.JokeAnimBlueprint_C_338
+	Function /Game/Characters/Joke/Animations/JokeAnimBlueprint.JokeAnimBlueprint_C:ExecuteUbergraph_JokeAnimBlueprint:0028
+[2024.04.04-14.02.55:214][728]LogScript: Warning: Accessed None trying to read property Character
+	JokeAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.JokeAnimBlueprint_C_339
+	Function /Game/Characters/Joke/Animations/JokeAnimBlueprint.JokeAnimBlueprint_C:ExecuteUbergraph_JokeAnimBlueprint:0028
+[2024.04.04-14.02.55:237][729]LogScript: Warning: Accessed None trying to read property Character
+	JokeAnimBlueprint_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.JokeAnimBlueprint_C_340
+	Function /Game/Characters/Joke/Animations/JokeAnimBlueprint.JokeAnimBlueprint_C:ExecuteUbergraph_JokeAnimBlueprint:0028
+[2024.04.04-14.02.56:205][770]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.04-14.02.56:210][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.04-14.02.56:211][770]PIE: New page: PIE session: MarketMap (5 เม.ย. 2567 04:02:56)
+[2024.04.04-14.02.56:211][770]LogPlayLevel: Display: Creating online subsystem for client :Context_64
+[2024.04.04-14.02.56:214][770]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2024.04.04-14.02.56:239][771]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.04.04-14.02.56:293][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053999s)
+[2024.04.04-14.02.56:293][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.054079s)
+[2024.04.04-14.02.56:310][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.04.04-14.02.56:314][771]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-14.02.56:314][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-14.02.56:315][771]LogAIModule: Creating AISystem for world MarketMap
+[2024.04.04-14.02.56:315][771]LogPlayLevel: PIE: World Init took: (0.001658s)
+[2024.04.04-14.02.56:315][771]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.04.04-14.02.56:315][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.04-14.02.56:315][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.04-14.02.56:315][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.04-14.02.56:315][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.04-14.02.56:315][771]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.04-14.02.56:315][771]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.04-14.02.56:315][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.04-14.02.56:315][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.04-14.02.56:317][771]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.04-14.02.56:317][771]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.04-14.02.56:317][771]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.04-14.02.56:318][771]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.04-14.02.56:570][771]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.04-14.02.56:571][771]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.04-14.02.56:571][771]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.04-14.02.56:571][771]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.04-14.02.56:571][771]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.04.04-14.02.56:571][771]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.04.04-14.02.56:574][771]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.04.04-14.02.56:574][771]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.04.04-14.02.56:574][771]LogInit: FAudioDevice initialized with ID 15.
+[2024.04.04-14.02.56:574][771]LogAudio: Display: Audio Device (ID: 15) registered with world 'MarketMap'.
+[2024.04.04-14.02.56:574][771]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.04-14.02.56:577][771]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.04-14.02.56:601][771]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.04.04-21.02.56
+[2024.04.04-14.02.56:602][771]LogWorld: Bringing up level for play took: 0.024519
+[2024.04.04-14.02.56:612][771]PIE: Server logged in
+[2024.04.04-14.02.56:612][771]PIE: Play in editor total start time 0.403 seconds.
+[2024.04.04-14.02.56:652][772]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095194 > MaxSimulationTimeStep (0.050) for 'BP_Merchant7Sugar_C_3', movement 'Walking'
+[2024.04.04-14.03.26:308][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-14.03.26:308][539]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.04.04-14.03.26:309][539]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-14.03.26:312][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-14.03.26:316][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.04-14.03.26:321][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-14.03.26:340][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-14.03.26:343][539]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.04-14.03.26:343][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.04-14.03.26:345][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.04-14.03.26:362][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.04-14.03.26:432][540]LogPlayLevel: Display: Destroying online subsystem :Context_64
