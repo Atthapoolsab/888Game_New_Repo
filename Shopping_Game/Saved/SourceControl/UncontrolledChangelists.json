@@ -29,6 +29,7 @@
 				"D:/888Game_New_Repo/Shopping_Game/Content/Characters/Joke/Animations/Animations/Walking.uasset",
 				"D:/888Game_New_Repo/Shopping_Game/Content/MarketMap.umap",
 				"D:/888Game_New_Repo/Shopping_Game/Content/Characters/Joke/Animations/CrouchingJokeBlendSpace1D1.uasset",
+<<<<<<< HEAD
 				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_BuyItemChili.uasset",
 				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_BuyItemLemonGrass.uasset",
 				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/BP_Merchant10LemonGrass.uasset",
@@ -58,6 +59,8 @@
 				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_BuyItemSugar.uasset",
 				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_BuyItemShrimp.uasset",
 				"D:/888Game_New_Repo/Shopping_Game/Content/UI/HP/WB_List.uasset",
+=======
+>>>>>>> eff660d9e5f17e35a1057cc23666ed875f4fe33d
 				"C:/Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/Market_Rack_Textures/Chili_rack.uasset",
 				"C:/Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/Market_Rack_Textures/Chilli_lambert.uasset",
@@ -100,6 +103,14 @@
 				"C:/Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Characters/Joke/Animations/Idle.uasset",
 				"C:/Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Characters/Joke/Animations/Walking.uasset",
+<<<<<<< HEAD
+=======
+				"C:/Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/Market_Rack_Textures/texture_Flavoring.uasset",
+				"C:/Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/Market_Rack_Textures/texture_Shrimp.uasset",
+				"C:/Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/Market_Rack_Textures/texture_Flavoring_Mat.uasset",
+				"C:/Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/Market_Rack_Textures/texture_Shrimp_Mat.uasset",
+				"C:/Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/Market_Rack_Textures/texture_Vegetables_Mat.uasset",
+>>>>>>> eff660d9e5f17e35a1057cc23666ed875f4fe33d
 				"C:/Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/Galangal_rack.uasset",
 				"C:/Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/fish_sauce_rack.uasset",
 				"C:/Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/coriander_rack.uasset",
