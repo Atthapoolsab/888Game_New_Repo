@@ -1451,3 +1451,173 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.04-11.35.46:318][374]LogShaderCompilers: Display: ================================================
 [2024.04.04-11.37.09:755][323]LogEditorViewport: Clicking Background
 [2024.04.04-11.40.57:899][650]LogEditorViewport: Clicking Background
+[2024.04.04-11.42.30:046][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.04-11.42.31:796][559]LogSlate: Window 'Save Content' being destroyed
+[2024.04.04-11.42.31:807][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-11.42.31:829][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/MarketMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-11.42.31:843][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.04-11.42.31:917][559]LogSavePackage: Moving output files for package: /Game/MarketMap
+[2024.04.04-11.42.31:918][559]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Saved/MarketMap4D0CB86B419D30FC1AD90799B4B81482.tmp' to '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/MarketMap.umap'
+[2024.04.04-11.42.31:924][559]LogFileHelpers: Saving map 'MarketMap' took 0.095
+[2024.04.04-11.42.31:930][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 320 ms)
+[2024.04.04-11.42.31:932][559]AssetCheck: New page: Asset Save: MarketMap
+[2024.04.04-11.42.31:932][559]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
+[2024.04.04-12.18.29:636][232]LogWindowsTextInputMethodSystem: Activated input method: Thai (Thailand) - (Keyboard).
+[2024.04.04-12.18.29:636][232]LogWindowsTextInputMethodSystem: Activated input method: Thai (Thailand) - (Keyboard).
+[2024.04.04-12.34.19:953][823]LogDerivedDataCache: C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:20.070 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10798 files in 12894 folders with total size 337 MiB.
+[2024.04.04-12.37.31:584][398]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.04.04-12.37.31:584][398]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.04.04-12.37.35:270][756]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-12.37.35:311][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-12.37.35:337][758]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-12.37.35:361][759]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-12.37.35:383][760]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-12.37.35:406][761]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-12.37.35:436][762]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-12.37.35:457][763]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-12.37.35:477][764]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-12.37.35:500][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-12.38.24:743][368]LogInterchangeEngine: [Pending] Importing
+[2024.04.04-12.38.24:743][368]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Admin/Docum...l TexTure stall rack/texture_Flavoring.png]
+[2024.04.04-12.38.24:743][368]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.04-12.38.24:743][368]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Admin/Docum...l TexTure stall rack/texture_Shrimp.png]
+[2024.04.04-12.38.24:773][369]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.04.04-12.38.24:774][369]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.04.04-12.38.24:782][369]LogTexture: Display: Building textures: /Game/Update_FBX/Market_Rack_Textures/texture_Shrimp.texture_Shrimp (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2024.04.04-12.38.24:785][369]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.04-12.38.24:785][369]LogTexture: Display: Building textures: /Game/Update_FBX/Market_Rack_Textures/texture_Flavoring.texture_Flavoring (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2024.04.04-12.38.24:790][369]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.04-12.38.24:791][369]LogInterchangeEngine: [Success] Import Done
+[2024.04.04-12.38.24:924][370]LogInterchangeEngine: [Success] Import Done
+[2024.04.04-12.38.37:842][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.04.04-12.38.38:759][850]LogSlate: Window 'Save Content' being destroyed
+[2024.04.04-12.38.38:775][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-12.38.38:832][850]LogSavePackage: Moving output files for package: /Game/Update_FBX/Market_Rack_Textures/texture_Flavoring
+[2024.04.04-12.38.38:832][850]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Saved/texture_Flavoring0BCFFAED476E8CE3DB1B7F8E11C8D8C0.tmp' to '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/Market_Rack_Textures/texture_Flavoring.uasset'
+[2024.04.04-12.38.38:872][850]LogSavePackage: Moving output files for package: /Game/Update_FBX/Market_Rack_Textures/texture_Shrimp
+[2024.04.04-12.38.38:872][850]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Saved/texture_Shrimp14617DD644292EFE4D46828F5C034FA2.tmp' to '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/Market_Rack_Textures/texture_Shrimp.uasset'
+[2024.04.04-12.38.38:879][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 425 ms)
+[2024.04.04-12.38.38:880][850]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.04-12.38.38:880][850]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Update_FBX/Market_Rack_Textures/texture_Flavoring.texture_Flavoring
+[2024.04.04-12.38.38:880][850]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Update_FBX/Market_Rack_Textures/texture_Shrimp.texture_Shrimp
+[2024.04.04-12.38.56:542][930]LogContentBrowser: Deferred new asset file creation: texture_Flavoring_Mat
+[2024.04.04-12.38.56:561][930]LogContentBrowser: Creating deferred item: texture_Flavoring_Mat
+[2024.04.04-12.38.56:567][931]LogContentBrowser: Renaming the item being created (Deferred Item: texture_Flavoring_Mat).
+[2024.04.04-12.38.58:838][204]LogContentBrowser: Attempting asset rename: texture_Flavoring_Mat -> texture_Flavoring_Mat
+[2024.04.04-12.38.58:848][204]LogContentBrowser: End creating deferred item texture_Flavoring_Mat
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: ================================================
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Total job queries 115, among them cache hits 46 (40.00%)
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Tracking 67 distinct input hashes that result in 39 distinct outputs (58.21%)
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: RAM used: 1.45 MiB of 1.60 GiB budget. Usage: 0.09%
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Shaders Compiled: 20
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Average time worker was idle: 31.89 s
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.10 s
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Job execution time: average 0.27 s, max 0.35 s
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Job life time (pending + execution): average 0.32 s, max 0.38
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Shader code size: average 34.25 KiB, min 30.363 KiB, max 39.105 KiB
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.73 s
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Average processing rate: 11.58 jobs/sec
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Total thread time: 2.891 s
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Total thread preprocess time: 0.39 s
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Percentage time preprocessing: 13.49%
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Effective parallelization: 1.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    9 times, average 0.16 sec, max 0.18 sec, min 0.13 sec)
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.14 sec, max 0.18 sec, min 0.10 sec)
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 48.35% of total time (compiled    9 times, average 0.16 sec, max 0.18 sec, min 0.13 sec)
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 43.59% of total time (compiled    9 times, average 0.14 sec, max 0.18 sec, min 0.10 sec)
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.32% of total time (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 2.73% of total time (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2024.04.04-12.38.58:865][204]LogShaderCompilers: Display: ================================================
+[2024.04.04-12.39.12:683][820]LogContentBrowser: Deferred new asset file creation: texture_Shrimp_Mat
+[2024.04.04-12.39.12:707][820]LogContentBrowser: Creating deferred item: texture_Shrimp_Mat
+[2024.04.04-12.39.12:714][821]LogContentBrowser: Renaming the item being created (Deferred Item: texture_Shrimp_Mat).
+[2024.04.04-12.39.13:332][894]LogContentBrowser: Attempting asset rename: texture_Shrimp_Mat -> texture_Shrimp_Mat
+[2024.04.04-12.39.13:339][894]LogContentBrowser: End creating deferred item texture_Shrimp_Mat
+[2024.04.04-12.39.15:350][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.04-12.39.16:401][116]LogSlate: Window 'Save Content' being destroyed
+[2024.04.04-12.39.16:415][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-12.39.16:513][116]LogSavePackage: Moving output files for package: /Game/Update_FBX/Market_Rack_Textures/texture_Flavoring_Mat
+[2024.04.04-12.39.16:513][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Saved/texture_Flavoring_Mat0EB065EA4D9EAA47FC61E787ABDF07FA.tmp' to '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/Market_Rack_Textures/texture_Flavoring_Mat.uasset'
+[2024.04.04-12.39.16:527][116]LogSavePackage: Moving output files for package: /Game/Update_FBX/Market_Rack_Textures/texture_Shrimp_Mat
+[2024.04.04-12.39.16:527][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Saved/texture_Shrimp_Mat9CE3E73E4527C14883329784434F2873.tmp' to '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/Market_Rack_Textures/texture_Shrimp_Mat.uasset'
+[2024.04.04-12.39.16:533][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 542 ms)
+[2024.04.04-12.39.16:533][116]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.04-12.39.16:533][116]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Update_FBX/Market_Rack_Textures/texture_Flavoring_Mat.texture_Flavoring_Mat
+[2024.04.04-12.39.16:533][116]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Update_FBX/Market_Rack_Textures/texture_Shrimp_Mat.texture_Shrimp_Mat
+[2024.04.04-12.40.14:171][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-12.40.14:196][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/MarketMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-12.40.14:209][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.04-12.40.14:285][805]LogSavePackage: Moving output files for package: /Game/MarketMap
+[2024.04.04-12.40.14:285][805]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Saved/MarketMap48F8CD954747E3DE0B6019B6E22ED786.tmp' to '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/MarketMap.umap'
+[2024.04.04-12.40.14:305][805]LogFileHelpers: Saving map 'MarketMap' took 0.109
+[2024.04.04-12.40.14:312][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 683 ms)
+[2024.04.04-12.40.14:314][805]AssetCheck: New page: Asset Save: MarketMap
+[2024.04.04-12.40.14:314][805]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
+[2024.04.04-12.40.16:212][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.04.04-12.40.56:309][556]LogEditorViewport: Clicking Background
+[2024.04.04-12.41.13:322][418]LogEditorViewport: Clicking Background
+[2024.04.04-12.50.14:023][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.04-12.50.14:095][282]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MarketMap_Auto1
+[2024.04.04-12.50.14:095][282]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Saved/MarketMap_Auto151F6714143665F181A5E47B34389FA7B.tmp' to '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto1.umap'
+[2024.04.04-12.50.14:096][282]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.04-12.50.14:096][282]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MarketMap' took 0.081
+[2024.04.04-12.50.14:096][282]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.081
+[2024.04.04-13.06.02:562][894]LogShaderCompilers: Display: ================================================
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Total job queries 151, among them cache hits 66 (43.71%)
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Tracking 83 distinct input hashes that result in 50 distinct outputs (60.24%)
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: RAM used: 1.88 MiB of 1.60 GiB budget. Usage: 0.12%
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Shaders Compiled: 20
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Average time worker was idle: 31.89 s
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.10 s
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Job execution time: average 0.27 s, max 0.35 s
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Job life time (pending + execution): average 0.32 s, max 0.38
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Shader code size: average 34.25 KiB, min 30.363 KiB, max 39.105 KiB
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.73 s
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Average processing rate: 11.58 jobs/sec
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Total thread time: 2.891 s
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Total thread preprocess time: 0.39 s
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Percentage time preprocessing: 13.49%
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Effective parallelization: 1.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    9 times, average 0.16 sec, max 0.18 sec, min 0.13 sec)
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.14 sec, max 0.18 sec, min 0.10 sec)
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 48.35% of total time (compiled    9 times, average 0.16 sec, max 0.18 sec, min 0.13 sec)
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 43.59% of total time (compiled    9 times, average 0.14 sec, max 0.18 sec, min 0.10 sec)
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.32% of total time (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 2.73% of total time (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2024.04.04-13.06.02:563][894]LogShaderCompilers: Display: ================================================
+[2024.04.04-13.06.17:011][570]LogContentBrowser: Attempting asset rename: textture_Vegetables_Mat -> texture_Vegetables_Mat
+[2024.04.04-13.06.17:058][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-13.06.17:083][570]LogSavePackage: Moving output files for package: /Game/Update_FBX/Market_Rack_Textures/texture_Vegetables_Mat
+[2024.04.04-13.06.17:083][570]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Saved/texture_Vegetables_Mat9928C9B740CEE91E44D316959D23B67C.tmp' to '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/Update_FBX/Market_Rack_Textures/texture_Vegetables_Mat.uasset'
+[2024.04.04-13.06.17:092][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 718 ms)
+[2024.04.04-13.06.17:103][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.04-13.06.17:112][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.04-13.06.17:119][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.04-13.06.17:120][570]AssetCheck: New page: Asset Save: texture_Vegetables_Mat
+[2024.04.04-13.06.17:120][570]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Update_FBX/Market_Rack_Textures/texture_Vegetables_Mat.texture_Vegetables_Mat
+[2024.04.04-13.06.32:764][323]LogEditorViewport: Clicking Background
+[2024.04.04-13.06.57:490][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-13.06.57:519][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/MarketMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-13.06.57:532][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.04-13.06.57:602][266]LogSavePackage: Moving output files for package: /Game/MarketMap
+[2024.04.04-13.06.57:602][266]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Saved/MarketMap927320584ADF91E547B942B257E28826.tmp' to '../../../../../../Users/Admin/Documents/888Game_New_Repo/Shopping_Game/Content/MarketMap.umap'
+[2024.04.04-13.06.57:614][266]LogFileHelpers: Saving map 'MarketMap' took 0.096
+[2024.04.04-13.06.57:622][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 850 ms)
+[2024.04.04-13.06.57:625][266]AssetCheck: New page: Asset Save: MarketMap
+[2024.04.04-13.06.57:625][266]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
