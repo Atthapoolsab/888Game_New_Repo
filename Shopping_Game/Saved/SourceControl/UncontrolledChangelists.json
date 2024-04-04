@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/888Game_New_Repo/Shopping_Game/Content/MarketMap.umap"
+				"D:/888Game_New_Repo/Shopping_Game/Content/MarketMap.umap",
+				"D:/888Game_New_Repo/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
 			]
 		}
 	]

@@ -1423,3 +1423,93 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.04-16.35.35:923][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 286 ms
 [2024.04.04-16.35.35:926][446]AssetCheck: New page: Asset Save: MarketMap
 [2024.04.04-16.35.35:927][446]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
+[2024.04.04-16.36.25:586][614]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.132 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12371 files in 14533 folders with total size 711 MiB.
+[2024.04.04-17.02.42:424][104]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.04-17.02.45:472][233]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.02.46:083][252]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.04.04-17.02.46:083][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.02.46:083][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-17.03.38:569][133]BlueprintLog: New page: Compile BP_TopDownCharacter
+[2024.04.04-17.03.38:689][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.04.04-17.03.39:407][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-17.03.39:514][145]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.03.39:550][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../888Game_New_Repo/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.04.04-17.03.39:607][145]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.04.04-17.03.39:608][145]LogSavePackage: Moving '../../../../../../888Game_New_Repo/Shopping_Game/Saved/BP_TopDownCharacterC689E7DB45F3CAD5BD3B97A6DAC7F4BB.tmp' to '../../../../../../888Game_New_Repo/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.04.04-17.03.39:635][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 514 ms)
+[2024.04.04-17.03.39:637][145]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.04.04-17.03.39:637][145]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.04.04-17.03.45:681][318]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.04-17.03.45:687][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.04-17.03.45:688][318]PIE: New page: PIE session: MarketMap (5 เม.ย. 2567 07:03:45)
+[2024.04.04-17.03.45:688][318]LogPlayLevel: Display: Creating online subsystem for client :Context_25
+[2024.04.04-17.03.45:692][318]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.04.04-17.03.45:714][319]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.04.04-17.03.45:757][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043193s)
+[2024.04.04-17.03.45:757][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.043276s)
+[2024.04.04-17.03.45:772][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.04-17.03.45:779][319]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-17.03.45:779][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-17.03.45:779][319]LogAIModule: Creating AISystem for world MarketMap
+[2024.04.04-17.03.45:780][319]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2024.04.04-17.03.45:780][319]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.04-17.03.45:780][319]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.04-17.03.45:780][319]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.04-17.03.45:780][319]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.04-17.03.45:780][319]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.04-17.03.45:780][319]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.04-17.03.45:780][319]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.04-17.03.45:780][319]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.04-17.03.45:780][319]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.04-17.03.45:781][319]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.04-17.03.45:781][319]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.04-17.03.45:781][319]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.04-17.03.45:783][319]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.04-17.03.45:994][319]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.04-17.03.45:994][319]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.04-17.03.45:994][319]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.04-17.03.45:994][319]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.04-17.03.45:995][319]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.04-17.03.45:995][319]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.04-17.03.45:997][319]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.04-17.03.45:997][319]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.04-17.03.45:997][319]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.04-17.03.45:997][319]LogAudio: Display: Audio Device (ID: 2) registered with world 'MarketMap'.
+[2024.04.04-17.03.45:997][319]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.04-17.03.46:054][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-17.03.46:063][319]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.04-17.03.46:081][319]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.04.05-00.03.46
+[2024.04.04-17.03.46:082][319]LogWorld: Bringing up level for play took: 0.018573
+[2024.04.04-17.03.46:103][319]PIE: Server logged in
+[2024.04.04-17.03.46:111][319]PIE: Play in editor total start time 0.424 seconds.
+[2024.04.04-17.03.46:208][319]LogViewport: Scene viewport resized to 1912x980, mode Windowed.
+[2024.04.04-17.03.46:221][320]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.091099 > MaxSimulationTimeStep (0.050) for 'BP_Merchant3_C_1', movement 'Walking'
+[2024.04.04-17.03.54:782][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-17.03.54:782][576]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.04.04-17.03.54:783][576]LogSlate: Window 'Shopping_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.04-17.03.54:816][576]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-17.03.54:819][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-17.03.54:822][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.04-17.03.54:831][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-17.03.54:848][576]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.04-17.03.54:848][576]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.04-17.03.54:848][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.04-17.03.54:851][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.04-17.03.54:870][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.04.04-17.03.54:933][577]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.04.04-17.04.12:388][ 54]BlueprintLog: New page: Compile BP_TopDownCharacter
+[2024.04.04-17.04.12:494][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.04-17.04.13:195][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-17.04.13:346][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../888Game_New_Repo/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.04.04-17.04.13:399][ 63]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.04.04-17.04.13:399][ 63]LogSavePackage: Moving '../../../../../../888Game_New_Repo/Shopping_Game/Saved/BP_TopDownCharacter02B805014366A7D5D340C49B40FA63DC.tmp' to '../../../../../../888Game_New_Repo/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.04.04-17.04.13:426][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 230 ms (total: 745 ms)
+[2024.04.04-17.04.13:428][ 63]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.04.04-17.04.13:428][ 63]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.04.04-17.04.29:246][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-17.04.29:377][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../888Game_New_Repo/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.04.04-17.04.29:433][193]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.04.04-17.04.29:434][193]LogSavePackage: Moving '../../../../../../888Game_New_Repo/Shopping_Game/Saved/BP_TopDownCharacter9D688F024709AFC8AC0BE397E0731B3B.tmp' to '../../../../../../888Game_New_Repo/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.04.04-17.04.29:460][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 959 ms)
+[2024.04.04-17.04.29:462][193]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.04.04-17.04.29:462][193]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
