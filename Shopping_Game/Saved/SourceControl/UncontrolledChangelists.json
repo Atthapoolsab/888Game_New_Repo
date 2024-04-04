@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/888Game_New_Repo/Shopping_Game/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/StarterContent/Architecture/Pillar_50x500.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Trap/BP_DeathRock.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Trap/BP_DeathWater.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Trap/BP_Trash.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/BP_Merchant.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/MarketMap.umap",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/BP_Merchant10LemonGrass.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/BP_Merchant2Lemon.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/BP_Merchant3Fishsauce.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/BP_Merchant4Mushroom.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/BP_Merchant5Cilantro.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/BP_Merchant6Galangal.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/BP_Merchant7Sugar.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/BP_Merchant8Shrimp.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/BP_Merchant9Shallots.uasset",
+				"D:/888Game_New_Repo/Shopping_Game/Content/Currency_Systems/UI/WB_BuyItemChili.uasset"
+			]
+		}
+	]
+}
