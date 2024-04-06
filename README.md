@@ -3,7 +3,7 @@
 - 2. 641310462 ณัฐนันท์ สิงหาสาร : 2D Artist : https://github.com/Flooker007
 - 3. 641310477 อรรถพันธ์ อรรถพูลทรัพย์ : 3D Artist : https://github.com/Atthapoolsab
  
-     Old Repository : https://github.com/Flooker007/888Game.git
+ Old Repository : https://github.com/Flooker007/888Game.git
 
 # Concept
 เกมจ่ายตลาดมุมมอง top-down ผู้เล่นจะได้รับภารกิจจากตัวละครแม่เดินจ่ายตลาดเดินซื้อวัตถุดิบทำต้มยำกุ้ง ในตลาดสดที่มีความแปลกนั่นคืออุปสรรคที่ผู่เล่นจะต้องเจอในตลาดนี้ เมื่อซื้อวัตถุดิบครบแล้วนำกลับมาให้แม่ที่บ้าน ผู้เล่นจะได้เรียนรู้วัตถุดิบทำต้มยำกุ้ง
